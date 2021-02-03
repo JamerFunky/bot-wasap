@@ -10,7 +10,7 @@
 <a href="#"><img title="🔰_MyBot_🔰" src="https://img.shields.io/badge/MYBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/JamerFunky"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FADHIL GRAPHY-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/JamerFunky"><img title="Author" src="https://img.shields.io/badge/JAMER-FUNKY GRAPHY-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
@@ -104,14 +104,13 @@ Script ini di modifikasi sama saya sendiri FADHIL ID.
 Ket: Aktiv tergantung owner
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🔰_MyBot_🔰`](+62 831-0265-0464)
+* [`Donasi 🔰_MyBot_🔰`](+62 857-350-546-93)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/)
-* [`Instagram Admin`](https://instagram.com/nur.fdhl_)
-* [`WhatsApp Admin `](https://wa.me/6283102650464)
+* [`Instagram Admin`](https://instagram.com/jamer.fvnky)
+* [`WhatsApp Admin `](https://wa.me/6285735054693)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
