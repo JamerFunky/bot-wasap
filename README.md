@@ -119,6 +119,6 @@ Ket: Aktiv tergantung owner
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 * [`AR15BOT`](https://github.com/A187ID/AR15BOT)
-* [ XPTNBOT`](https://github.com/XP-TN/xptnbott)
+* [`XPTNBOT`](https://github.com/XP-TN/xptnbott)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
