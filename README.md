@@ -57,7 +57,7 @@ Script ini di modifikasi sama saya sendiri FADHIL ID.
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/JamerFunky/bot-wasap
-> cd mybotv2
+> cd bot-wasap
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr done tinggal jalanin aja dah
 ```
