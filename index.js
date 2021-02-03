@@ -63,8 +63,8 @@ nomcr = `17196000713@s.whatsapp.net`
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:+62 896-5547-8810\n' // full name
-            + 'ORG:Owner XPTN Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=6289655478810:6289655478810\n' // WhatsApp ID + phone number
+            + 'ORG:Owner JAMER Bot;\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waid=6285735054693\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 
 blocked = []
@@ -580,10 +580,10 @@ async function starts() {
     const kapankah = ['Hari Lagi','Minggu Lagi','Bulan Lagi','Tahun Lagi']
     const koin = ['http://bit.ly/Koin1','http://bit.ly/Koin5','https://i.ibb.co/q7kdBjm/be27e6f849da.jpg','https://i.ibb.co/BCxNPD5/a42ef753a321.jpg']
 			const botNumber =  client.user.jid
-			const premium = ["6289655478810@s.whatsapp.net"]
+			const premium = ["6285735054693@s.whatsapp.net"]
 			const tescuk = ["0@s.whatsapp.net"]
 			const totalchat = await  client.chats.all()
-			const ownerNumber = ["6289655478810@s.whatsapp.net"] // replace this with your number
+			const ownerNumber = ["62895735054693@s.whatsapp.net"] // replace this with your number
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await  client.groupMetadata(from) : ''
@@ -882,7 +882,7 @@ async function starts() {
   ├─ ❏ ${prefix}kapankah
   ├─ ❏ ${prefix}blocklist
 
-◩ XPTN BOT`, text, tescuk, cr)
+◩ JAMER BOT`, text, tescuk, cr)
 					break
                 case 'readme':
                  client.updatePresence(from, Presence.composing) 
@@ -3840,7 +3840,7 @@ if (!isUser) return reply(mess.only.userB)
                   reply(`Maaf *${pushname2()}*, Command *${prefix}${command}* Tidak Terdaftar Di Dalam *${prefix}menu Sayang😘*!`)
                   }
                   if (budy == 'cekprefix') {
-                  reply(`* XPTN BOT USING PREFIX [ ${prefix} ]*`)
+                  reply(`* FUNKY BOT USING PREFIX [ ${prefix} ]*`)
                   }
                   
    				if (isGroup && isSimi && budy != undefined && body.startsWith(`${prefix} `)) {
